@@ -12,12 +12,12 @@
     },  
 
     "GITHUB_USERNAME": {
-      "description": "nivankadilshan",
+      "description": "",
       "required": true
     },
     
     "GITHUB_AUTH_TOKEN": {
-      "description": "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",
+      "description": "",
       "required": true
     }   
 },
